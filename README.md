@@ -32,4 +32,10 @@ This project is a **RESTful API** built with **Node.js** and **Express.js**, usi
 1. Clone the repository  
    ```sh  
    git clone https://github.com/BenDev202/blog-nodejs-crud.git 
-   cd blog-nodejs-crud ```
+   cd blog-nodejs-crud
+2. Install Node Module for blog-nodejs-crud
+    ```sh
+    npm install
+3. Run Nodemon by :
+   ```sh
+   nodemon index.js
